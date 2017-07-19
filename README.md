@@ -49,7 +49,7 @@
         <td><b>Variables</b></td>
           <td>Are information holders, just like x and y are in algrebraic equations. Datatypes.</td>
           <td>information is being given or held for the computer to function</td>
-          <td><img src=variable.jpg alt=variableInPython style="width:150px;height:125px;></td>
+          <td><img src=variable.jpg alt=variableInPython style="width:150px;height:125px;"></td>
           <td><img src=variables.PNG alt=variablesInScratch style="width:204px;height:150px;"></td>
         </tr>
 
