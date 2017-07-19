@@ -50,7 +50,7 @@
           <td>Are information holders, just like x and y are in algrebraic equations. Datatypes.</td>
           <td>information is being given or held for the computer to function</td>
           <td>Variables in python are defined with '=' signs</td>
-          <td>Variables in scratch are seen in the blocks as seconds or distance</td>
+          <td><img src=variables.PNG alt=variablesInScratch style="width:304px;height:228px;"></td>
         </tr>
 
         <!-- Fill in the row for Loops -->
@@ -59,7 +59,7 @@
           <td>Loops are used to repeat the same information, or action given, multiple times</td>
           <td>information is being multiplied for a certain amount of times. Repeated.  </td>
           <td>loops in python can happen in many different ways but are often times defined with an '=' and number following</td>
-          <td></td>
+          <td><img src= alt= style="width:304px;height:228px;"></td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
@@ -68,7 +68,7 @@
           <td>If something happens then do the following commands, is what is being told to the computer.</td>
           <td> </td>
           <td>  </td>
-          <td>  </td>
+          <td><img src= alt= style="width:304px;height:228px;"></td>
         </tr>
 
         <!-- Fill in the row for Functions -->
@@ -77,7 +77,7 @@
           <td>A simple procedure given to the computer to handle</td>
           <td>  </td>
           <td>  </td>
-          <td>  </td>
+          <td><img src= alt= style="width:304px;height:228px;"></td>
         </tr>
 
       </table>
