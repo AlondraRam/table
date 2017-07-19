@@ -59,7 +59,7 @@
           <td>Loops are used to repeat the same information, or action given, multiple times</td>
           <td>information is being multiplied for a certain amount of times. Repeated.  </td>
           <td>loops in python can happen in many different ways but are often times defined with an '=' and number following</td>
-          <td><img src= alt= style="width:304px;height:228px;"></td>
+          <td><img src=loops.PNG alt=loops style="width:304px;height:228px;"></td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
@@ -68,7 +68,7 @@
           <td>If something happens then do the following commands, is what is being told to the computer.</td>
           <td> </td>
           <td>  </td>
-          <td><img src= alt= style="width:304px;height:228px;"></td>
+          <td><img src=Conditionals.PNG alt=Conditionals style="width:304px;height:228px;"></td>
         </tr>
 
         <!-- Fill in the row for Functions -->
