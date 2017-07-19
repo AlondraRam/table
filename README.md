@@ -50,7 +50,7 @@
           <td>Are information holders, just like x and y are in algrebraic equations. Datatypes.</td>
           <td>information is being given or held for the computer to function</td>
           <td>Variables in python are defined with '=' signs</td>
-          <td><img src=variables.PNG alt=variablesInScratch style="width:304px;height:228px;"></td>
+          <td><img src=variables.PNG alt=variablesInScratch style="width:204px;height:150px;"></td>
         </tr>
 
         <!-- Fill in the row for Loops -->
@@ -77,7 +77,7 @@
           <td>A simple procedure given to the computer to handle</td>
           <td>  </td>
           <td>  </td>
-          <td><img src= alt= style="width:304px;height:228px;"></td>
+          <td><img src=Function_1.png alt= style="width:304px;height:228px;"></td>
         </tr>
 
       </table>
